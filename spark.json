@@ -1,0 +1,7 @@
+{
+    "name": "MS IOT Virtual Shield",
+    "version": "0.0.1",
+    "author": "bblanchon",
+    "license": "MIT License",
+    "description": "Virtual Shield library - ported from @ms-iot"
+}
